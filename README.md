@@ -39,3 +39,11 @@ Lista de Tarefas
 - [x] Terefa 3
 
 teste link jogo [Celebridades](https://Celebridades-WEB.diogoichaso.repl.co)
+
+TABELAS
+Num | Nome | Nota
+---|---|---
+1 | Diogo | 10
+2 | Fernanda | 9
+3 | Gabriel | 8
+4 | Guilhermem | 8
