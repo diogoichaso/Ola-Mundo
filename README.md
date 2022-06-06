@@ -25,7 +25,7 @@ else:
     print(f'{num' é ímpar)
 ```
 
-Olá pessoal:vulcsn_salute:
+Olá pessoal:vulcan_salute:
 [emojis github](https://github.com/ikatyang) Procurar nos repositórios por emoji cheat sheet
 
 Lista Numerada
