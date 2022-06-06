@@ -46,4 +46,4 @@ Num | Nome | Nota
 1 | Diogo | 10
 2 | Fernanda | 9
 3 | Gabriel | 8
-4 | Guilhermem | 8
+4 | Guilherme | 8
