@@ -4,3 +4,6 @@
  Repositório criado durante uma aula ao vivo do Curso em Vídeo
  
 Esta linha eu adicionei diretamente no github
+
+**Negrito**
+*Itálico*
