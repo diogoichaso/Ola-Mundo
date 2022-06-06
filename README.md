@@ -21,19 +21,19 @@ Lista Numerada
 1. Elemento 2
 1. Elemento 3
 1. Elemento 4
- 1. Elemento 4.1
-  1. Elemento 4.1.1
- 1. Elemento 4.2
+   1. Elemento 4.1 (3 espaços)
+      1. Elemento 4.1.1 (6 espaços)
+1. Elemento 4.2
 
 Lista Demarcada
 * Elemento 1
-* Elemento 2
- * Elemento 2.1
+- Elemento 2
+   * Elemento 2.1 (3 espaços)
 * Elemento 3
- * Elemento 3.1
-  * Elemento 3.1.1
+   * Elemento 3.1 (3 espaços)
+      * Elemento 3.1.1 (6 espaços)
 
 Lista de Tarefas
-- [] Tarefa 1
-- [] Tarefa 2
-- [x] Terefa 3
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [x] Terefa 3 
