@@ -15,6 +15,18 @@ Teste da linguagem Markdown
 *Itálico* ou _Itálico_
 ~~tachado~~
 __*Negrito e Itálico*__
+> quotes
+`comando`
+```
+num = int(input('Digite um valor': ))
+if num % 2 == 0:
+    print(f'{num} é par')
+else:
+    print(f'{num' é ímpar)
+```
+
+Olá pessoal:vulcsn_salute:
+[emojis github](https://github.com/ikatyang) Procurar nos repositórios por emoji cheat sheet
 
 Lista Numerada
 1. Elemento 1
