@@ -11,7 +11,7 @@ Teste da linguagem Markdown
 ### Título de nível 3
 ---
 ***
-**Negrito** ou __Negrito__ ou
+**Negrito** ou __Negrito__ , 
 *Itálico* ou _Itálico_
 ~~tachado~~
 __*Negrito e Itálico*__
